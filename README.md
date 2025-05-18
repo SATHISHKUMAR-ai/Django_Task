@@ -1,7 +1,7 @@
-python manage.py makemigrations
-python manage.py migrate
-pip install pillow
-python manage.py runserver
+python manage.py makemigrations  ,
+python manage.py migrate   ,
+pip install pillow   ,
+python manage.py runserver   ,
 The Register page
 ![registor](https://github.com/user-attachments/assets/4783426c-6110-4e85-aaa6-fdbb207d6df9)
 Login page
